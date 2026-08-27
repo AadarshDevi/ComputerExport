@@ -6,7 +6,12 @@
 3. Discord
 4. SDKMAN + JDK 25
 
-## Level II: IDEs
+## Level II: Gaming
+1. Steam
+2. Epic Games
+3. Ubisoft Games Launcher (If applicable)
+
+## Level III: IDEs
 1. Jetbrains IntelliJ IDEA
 2. Jetbrains PyCharm
 3. Jetbrains CLion
