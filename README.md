@@ -4,6 +4,8 @@
 1. Firefox
 2. Inkscape
 3. Discord
+4. Signal
+5. Spotify
 
 ## Gaming
 1. Steam
@@ -37,6 +39,7 @@
 2. GitHub Desktop
 3. Maven
 4. WiX Toolset
+5. CMake
 
 ## Digital Art
 1. Inkscape
