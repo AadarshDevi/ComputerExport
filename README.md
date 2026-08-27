@@ -40,6 +40,7 @@
 3. Maven
 4. WiX Toolset
 5. CMake
+6. Docker
 
 ## Digital Art
 1. Inkscape
