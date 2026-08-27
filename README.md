@@ -46,6 +46,8 @@
 2. Krita
 3. G... Raster Editor
 4. Blender
+5. Affinity
+6. Huion Tablet
 
 ## Game Development
 1. Godot
