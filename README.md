@@ -53,3 +53,9 @@
 3. ESP-IDF
 4. PlatformIO
 5. KiCad
+
+## Other
+1. Draw.io
+2. VLC Media Player
+3. Notepad++
+4. Obsidian ??
