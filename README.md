@@ -45,7 +45,7 @@
 ## Digital Art
 1. Inkscape
 2. Krita
-3. G... Raster Editor
+3. GIMP
 4. Blender
 5. Affinity
 6. Huion Tablet
