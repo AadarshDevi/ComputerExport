@@ -21,8 +21,6 @@
 3. Jetbrains CLion
 4. Visual Studio
 5. VS Code
-6. Arduino IDE
-7. Arduino App Lab
 
 ### Extra
 1. SceneBuilder
@@ -36,8 +34,9 @@
 
 ### Extra
 1. Git
-2. Maven
-3. WiX Toolset
+2. GitHub Desktop
+3. Maven
+4. WiX Toolset
 
 ## Digital Art
 1. Inkscape
@@ -47,3 +46,10 @@
 
 ## Game Development
 1. Godot
+
+## Electronics
+1. Arduino IDE
+2. Arduino App Lab
+3. ESP-IDF
+4. PlatformIO
+5. KiCad
