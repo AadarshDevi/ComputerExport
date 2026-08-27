@@ -4,6 +4,7 @@
 1. Firefox
 2. Inkscape
 3. Discord
+4. SDKMAN + JDK 25
 
 ## Level II: IDEs
 1. Jetbrains IntelliJ IDEA
