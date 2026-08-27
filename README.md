@@ -10,6 +10,11 @@
 2. Epic Games
 3. Ubisoft Games Launcher (If applicable)
 
+### Extra
+1. OBS
+2. Audacity 3 + 4 (Beta)
+3. HandBrake
+
 ## IDEs
 1. Jetbrains IntelliJ IDEA
 2. Jetbrains PyCharm
@@ -18,7 +23,9 @@
 5. VS Code
 6. Arduino IDE
 7. Arduino App Lab
-8. 
+
+### Extra
+1. SceneBuilder
 
 ## Programming Languages
 1. Java
@@ -26,9 +33,11 @@
 3. C/C++
 4. Node
 5. Rux
-6. Git
-7. Maven
-8. WiX Toolset
+
+### Extra
+1. Git
+2. Maven
+3. WiX Toolset
 
 ## Digital Art
 1. Inkscape
@@ -36,5 +45,5 @@
 3. G... Raster Editor
 4. Blender
 
-## Programming Extras
-1. SceneBuilder
+## Game Development
+1. Godot
