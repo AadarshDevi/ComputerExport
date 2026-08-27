@@ -12,4 +12,5 @@
 9. Installed Fedora 42 (EOL)
 10. Unable to find link to download it
 11. After a long search found link to previous fedora linux iso
-12.  
+12.  Bootable USB Drive for Fedora 42 is broken
+13.  So I guess Ubuntu 24.04
